@@ -1,0 +1,9 @@
+#app {
+  font-family: "Roboto", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 650px;
+  margin: 150px auto;
+  text-align: center;
+  color: #2c3e50;
+}
